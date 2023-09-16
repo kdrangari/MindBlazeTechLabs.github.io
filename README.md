@@ -1,2 +1,2 @@
-# MindBlazeTechLabs.gihub.io
+# MindBlazeTechLabs.github.io
 IT Services &amp; Consulting Company
